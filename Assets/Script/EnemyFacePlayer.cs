@@ -1,5 +1,4 @@
 using UnityEngine;
-
 public class EnemyFacePlayer : MonoBehaviour
 {
     public Transform player; // ตัวละครผู้เล่น
